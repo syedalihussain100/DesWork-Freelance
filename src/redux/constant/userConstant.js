@@ -1,0 +1,23 @@
+// register
+
+export const REGISTER_SUCCESSFULL = "REGISTER_SUCCESSFULL";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+// login
+
+export const LOGIN_SUCCESSFULL = "LOGIN_SUCCESSFULL";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+// logout
+
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAIL = "LOGOUT_FAIL";
+
+export const LOAD_SUCCESS = "LOAD_SUCCESS";
+export const LOAD_FAIL = "LOAD_FAIL";
+
+
+// REGISTER DATABASE
+
+export const REGISTER_ADD_DATABASE =  "REGISTER_ADD_DATABASE";
+export const REGISTER_DATABASE_ERROR = "REGISTER_DATABASE_ERROR";
